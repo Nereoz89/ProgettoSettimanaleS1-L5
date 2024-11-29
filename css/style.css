@@ -1,0 +1,146 @@
+/* Your styles here */
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    padding: 3em;
+    line-height: 1.65;
+    border: 1px solid black;
+    
+    
+}
+.poppins-bold {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+header {
+    background-image: url(../images/banner.jpg);
+    line-height: 1.5;
+    background-position: center;
+    background-size: cover;
+    width: 100%; height: 20em;
+    
+    
+}
+
+header p{ 
+    text-align: center;
+    margin: 1em;
+}
+
+#logo{
+    background-color: black;
+    padding: 0.5em;
+    
+}
+
+#logo img{
+    margin: 0 auto;
+    display: block;
+    
+}
+
+header img{
+    margin-left: 2em;
+    height: 1.8em;
+    margin: 1em 1em;
+    
+    
+    
+}
+h1{
+    text-align: center;
+    color: #25a2c3 ;
+    font-size: xx-large;
+    margin-top: 1.5em;
+}
+
+h2{
+    color:#25a2c3 ;
+    text-transform: uppercase;
+    
+}
+
+
+button {
+   background-color: #f04c2f ;
+   border: none;
+   border-radius: 10%;
+   color: white;
+   padding: 0.8em;
+   display: block;
+   margin: 2em auto;
+}
+
+#pcimg img{
+    display: block;
+    border-radius: 50%;
+    padding: 1em;
+    height: 18em;
+    margin: 0 auto;
+}
+
+
+
+.article{
+    text-align: center;
+    padding: 1em;
+    
+}
+
+section p{
+padding: em;
+}
+
+#sec5{
+    padding: 1.5em;
+    text-align: center;
+    background-color: #e22d0e;
+    color: white;
+    margin-bottom: 2em;
+    max-width: 100%;
+}
+
+h4 {
+   font-size: xx-large;
+}
+
+aside img{
+    max-width: 100%;
+    
+}
+aside div{
+    margin: 1em 2em;
+    border: 1px solid #dee1e3;
+    border-radius: 1%;
+    text-align: center;
+
+    
+}
+
+
+li {
+    list-style-type: none;
+}
+
+footer{
+    text-align: center;
+    background-color:#25a2c3  ;
+    color: #c8e7f0;
+    padding: 2em 1em;
+    margin-top: 5em;
+}
+
+footer a{
+    color: #c8e7f0;
+}
+
+h3{
+    font-size: xx-large;
+    color: white;
+}
+
+footer p{
+    font-size: 0.8em;
+}
